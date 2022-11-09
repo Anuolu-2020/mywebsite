@@ -1,0 +1,75 @@
+body {
+    /* Old browsers */
+    /*background: #141E30;
+    /* Chrome 10-25, Safari 5.1-6 */
+    /*background: -webkit-linear-gradient(-45deg, #35577D, #141E30);*/
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /*background: linear-gradient(-45deg, #35577D, #141E30);
+    margin: 0;
+    padding: 0;*/
+    background: url("website background.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    margin: 0px;
+}
+
+h1{
+   color:blue;
+    font-family:'serif';
+}
+h2{
+    color:aliceblue;
+}
+.header{
+  background: orange;
+  background-position: center;
+  text-align: center;
+  padding: 40px;
+  background-attachment: fixed;
+  height: cover;
+}
+p{
+  font-family:'Times New Roman';
+  font-size: 30px;
+  color:white;
+}
+.footer{
+  background: orange;
+  text-align: bottom;
+  padding: 40px;
+  background-attachment: fixed;
+  color: white;
+  font-family: 'Times New Roman';
+  font-size: 30px;
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+.web-img{
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    width: 100px;
+}
+.about-txt{
+    font-family:'Times New Roman';
+    font-size: 30px;
+    color: white;
+}
+.trailer,h4{
+    color: orange;
+    font-size: 50px;
+}
+h6{
+  color: azure;
+  font-size: 40px;
+}
+.copyright{
+  font-family:'Times New Roman';
+  text-align: center;
+  font-size: 15px;
+  
+}
